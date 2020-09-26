@@ -2,6 +2,7 @@
 title: 'Pneumonia Detection from Chest X-Ray'
 date: 2020-06-20 00:00:00
 description: This blog showcases my pneumonia detection neural network project and the thought process behind it.
+featured_image: '/images/pneumonia-detection/featured.png'
 ---
 
 __Note: You can find the jupyter notebook [here](https://jovian.ml/colsonxu/pneumonia-detection). I suggest opening the notebook so you can follow along.__
