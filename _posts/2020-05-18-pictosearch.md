@@ -3,6 +3,7 @@ title: 'PictoSearch Development - Idea'
 date: 2020-05-18 00:00:00
 description: Motivation and thought process behind PictoSearch, an AI powered camera text searching tool.
 featured_image: '/images/pictosearch/Diagram.png'
+tags: ["iOS", "App"]
 ---
 
 ## MOTIVATION
